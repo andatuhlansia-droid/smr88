@@ -1,0 +1,280 @@
+
+
+<!DOCTYPE html>
+<html amp lang='id'>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PISANG123 | STAY SAVA DIRECT BOOKING WEBSITE PISANG 123</title>
+    <meta name="description" content="PISANG123 merupakan daftar situs toto slot gacor hari ini yang menawarkan beberapa pilihan=bonus berlimpah yang bisa di klaim untuk para pengguna baru ataupun lama."/>
+    <meta name="robots" content="index,follow" />
+    <link href="https://wangi787.dataklmsad902.site/images/setting-favicon/1/ZhfYBxkEvMMfCcz9.png?s=9cc4736137b3819780f4e9e321481ce4" rel="icon" type="image/x-icon" />
+    <link rel="canonical" href="https://staysava.com/" />
+    <link rel="alternate" href="https://staysava.com/" hreflang="id" />
+    <meta property="og:url" content="https://staysava.com/" />
+    <meta property="og:site_name" content="PISANG123" />
+    <meta property="og:image:alt" content="PISANG123" />
+    <meta property="og:image" content="https://ik.imagekit.io/dv9dq8az7/pisang123.jpg" />
+    <link rel="preload" as="script" href="https://cdn.ampproject.org/v0.js" />
+    <script async src="https://cdn.ampproject.org/v0.js" nonce="MjE4NjQyMjYwNCwyNzg5OTc4NzM5"></script>
+    <style amp-boilerplate>
+      body {
+        -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+        -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+        -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+        animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+      }
+
+      @-webkit-keyframes -amp-start {
+        from {
+          visibility: hidden;
+        }
+
+        to {
+          visibility: visible;
+        }
+      }
+
+      @-moz-keyframes -amp-start {
+        from {
+          visibility: hidden;
+        }
+
+        to {
+          visibility: visible;
+        }
+      }
+
+      @-ms-keyframes -amp-start {
+        from {
+          visibility: hidden;
+        }
+
+        to {
+          visibility: visible;
+        }
+      }
+
+      @-o-keyframes -amp-start {
+        from {
+          visibility: hidden;
+        }
+
+        to {
+          visibility: visible;
+        }
+      }
+
+      @keyframes -amp-start {
+        from {
+          visibility: hidden;
+        }
+
+        to {
+          visibility: visible;
+        }
+      }
+    </style>
+    <noscript>
+      <style amp-boilerplate>
+        body {
+          -webkit-animation: none;
+          -moz-animation: none;
+          -ms-animation: none;
+          animation: none;
+        }
+      </style>
+    </noscript>
+    <style amp-custom>
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: monospace;
+        position: relative;
+        background: #000000;
+        background-image: radial-gradient(#48484a 5%, transparent 50%);
+        background-size: 5px 5px;
+        background-attachment: fixed;
+      }
+
+      .container {
+        max-width: 400px;
+        height: 100vh;
+        margin: 0 auto;
+        padding: 15px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        overflow: hidden;
+      }
+
+      .welcome {
+        max-width: 350px;
+        margin: 0 auto;
+      }
+
+      .welcome h3 {
+        font-size: 12px;
+        color: #fff;
+        overflow: hidden;
+        border-right: 0.15em solid #e0e31d;
+        white-space: nowrap;
+        letter-spacing: 0.09em;
+        animation: typing 3.5s steps(40, end), blink-caret 0.75s step-end infinite;
+      }
+
+      @keyframes typing {
+        from {
+          width: 0;
+        }
+
+        to {
+          width: 100%;
+        }
+     }
+
+      @keyframes blink-caret {
+
+        from,
+        to {
+          border-color: transparent;
+        }
+
+        50% {
+          border-color: #e0e31d;
+        }
+     }
+
+      .banner {
+        border-radius: 10px;
+     }
+
+      .btn-menu {
+        border: none;
+        outline: none;
+        color: white;
+        background: var(--o-color);
+        cursor: pointer;
+        position: relative;
+        z-index: 5;
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 20px;
+        padding: 15px;
+        border-radius: 5px;
+        letter-spacing: 2px;
+        text-decoration: none;
+        text-align: center;
+     }
+      
+      .btn-menu:before {
+        content: '';
+        background: linear-gradient(45deg, var(--o-color), var(--t1-color), var(--t2-color), var(--o-color), var(--t2-color), var(--o-color), var(--t1-color));
+        position: absolute;
+        top: -2px;
+        left:-2px;
+        background-size: 300%;
+        z-index: -1;
+        filter: blur(5px);
+        width: calc(100% + 4px);
+        height: calc(100% + 4px);
+        animation: glowing 20s linear infinite;
+        opacity: 0;
+        transition: opacity .3s ease-in-out;
+        border-radius: 10px;
+     }
+      
+      .btn-menu:after {
+        background: transparent;
+     }
+      
+      .btn-menu:before {
+        opacity: 1;
+     }
+      
+      .btn-menu:hover {
+        color: #fff;
+     }
+      
+      .btn-menu:after {
+        z-index: -1;
+        content: '';
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background: var(--o-color);
+        color: #fff;
+        left: 0;
+        top: 0;
+        border-radius: 10px;
+     }
+      
+      .btn-menu a , .btn-menu i {
+        color: rgb(255, 255, 255);
+     }
+      
+      a.btn-menu{
+        color: #fff;
+     }
+      
+      @keyframes glowing {
+        0% { background-position: 0 0; }
+        50% { background-position: 300% 0; }
+        100% { background-position: 0 0; }
+     }
+      
+      :root {
+        --w-color: #e0e31d;
+        --b-color: #e0e31d;
+        --t1-color: #e0e31d;
+        --t2-color: #e0e31d;
+        --t3-color: #e0e31d;
+        --t4-color:#e0e31d;
+        --t5-color: #e0e31d;
+        --t6-color:#e0e31d;
+        --yuji-color: gold;
+        --o-color: transparent;
+        --o2-color: #e0e31d;
+        --o3-color: #e0e31d;
+
+     }
+
+      .copyright {
+        text-align: center;
+        color: #e0e31d;
+      }
+
+      .nagaterbang {
+        position: fixed;
+        z-index: 1;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        margin: auto;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <center>
+          <a href="https://staysava.com/">
+            <amp-img id="image" class="animated tada infinite slower" src="https://image.jimcdn.com/app/cms/image/transf/none/path/s010698ced5086d0c/image/i848c87fcdd26eace/version/1768744889/image.png" alt="LOGO PISANG123" width="230" height="82" layout="intrinsic" style="margin-bottom: 10px;"></amp-img>
+          </a>
+        </center>
+      </header>
+      <div class="welcome">
+        <h3>Selamat Datang di PISANG123</h3>
+      </div>
+      <amp-img src="https://ik.imagekit.io/dv9dq8az7/pisang123.jpg" width="1402" height="1122" layout="intrinsic" class="banner"></amp-img>
+      <a href="https://pintu-masuk.it.com/pemuda" target="_blank" rel="noreferrer noopener" role="button" class="btn-menu">DOWNLOAD APK</a>
+      <a href="https://pintu-masuk.it.com/pemuda" target="_blank" rel="noreferrer noopener" role="button" class="btn-menu">LOGIN PISANG123</a>
+      <a href="https://pintu-masuk.it.com/pemuda" target="_blank" rel="noreferrer noopener" role="button" class="btn-menu">DAFTAR PISANG123</a>
+      <p>
+      <p class="copyright"> @ Copyright 2026 By: <a href="https://staysava.com/" rel="noopener noreferrer" style="color: #e0e31d;"><b>PISANG123</b></a> | <a href="https://staysava.com/" rel="noopener noreferrer" style="color: #e0e31d;"><b>PISANG123</b></a></p>
+    </div>
+  </body>
+</html>
