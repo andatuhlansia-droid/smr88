@@ -255,7 +255,7 @@ td:first-child {
       <header>
          <center>
             <amp-img id="image"
-                  class="animated tada infinite slower" src="https://www.koorflashback.nl/loga.png"
+                  class="animated tada infinite slower" src="https://ik.imagekit.io/nnrxx2pfv/anjay/anjjayy.png"
                   alt="ANJAY22" width="230" height="60" layout="intrinsic"></amp-img>
       </header>
       <div class="welcome">
