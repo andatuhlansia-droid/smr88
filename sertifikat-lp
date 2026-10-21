@@ -1,0 +1,830 @@
+
+<!DOCTYPE html>
+<html amp lang="id">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1" />
+  <title>TOTORAWIT: Link Slot 777 Online Akses Perkalian Maksimal Gampang Maxwin</title>
+  <meta name="description" content="Kenali TOTORAWIT melalui informasi Slot 777 online, panduan akses, dan fitur perkalian. Pahami aturan permainan serta ketentuannya, karena maxwin tidak dapat dijamin." />
+  <meta name="robots" content="index,follow" />
+  <link href="https://files.sitestatic.net/ImageFile/20260108061200000000eeee2c527a__TOTORAWIT__300x300.pngbWM3e.md.png" rel="shortcut icon" type="image/x-icon" />
+  <link rel="canonical" href="https://e-sertifikat.com/" />
+  <link rel="alternate" href="https://e-sertifikat.com/" hreflang="id" />
+  <meta property="og:url" content="https://e-sertifikat.com/" />
+  <meta property="og:site_name" content="TOTORAWIT" />
+  <meta property="og:image:alt" content="TOTORAWIT" />
+  <meta property="og:image" content="https://s15.gifyu.com/images/bWM3e.md.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="preload" as="script" href="https://cdn.ampproject.org/v0.js" />
+  
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style>
+  <noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+  <style amp-custom>
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --pink: #d4af37;
+  --purple: #9ca3af;
+  --blue: #15803d;
+  --cyan: #22c55e;
+  --green: #86efac;
+  --yellow: #f5d76e;
+  --orange: #b8942e;
+  --red: #166534;
+  --text: #ffffff;
+
+  --rgb: linear-gradient(
+    90deg,
+    #d4af37,
+    #9ca3af,
+    #15803d,
+    #22c55e,
+    #86efac,
+    #f5d76e,
+    #b8942e,
+    #166534,
+    #d4af37
+  );
+}
+
+/* =========================
+   BODY / BACKGROUND
+========================= */
+body {
+  font-family: 'Poppins', sans-serif;
+  background-image:
+    radial-gradient(circle at 20% 20%, rgba(212,175,55,.16), transparent 30%),
+    radial-gradient(circle at 80% 25%, rgba(34,197,94,.15), transparent 30%),
+    radial-gradient(circle at 50% 90%, rgba(156,163,175,.18), transparent 35%),
+    linear-gradient(rgba(15,48,30,.88), rgba(37,40,43,.94)),
+    url(https://s15.gifyu.com/images/bWM3e.md.png);
+
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+
+  color: var(--text);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  padding: 20px 10px;
+}
+
+/* =========================
+   CONTAINER
+========================= */
+.container {
+  width: 100%;
+  max-width: 480px;
+  margin: 0 auto;
+}
+
+/* =========================
+   PREMIUM GREEN GOLD GRAY CARD
+========================= */
+.card {
+  position: relative;
+  background:
+    radial-gradient(circle at top left, rgba(212,175,55,.12), transparent 35%),
+    radial-gradient(circle at bottom right, rgba(34,197,94,.12), transparent 35%),
+    rgba(37,40,43,.78);
+
+  border-radius: 24px;
+  padding: 26px 20px;
+  overflow: hidden;
+
+  border: 2px solid transparent;
+
+  background-clip: padding-box;
+
+  box-shadow:
+    0 15px 45px rgba(0,0,0,.75),
+    0 0 18px rgba(34,197,94,.25),
+    0 0 35px rgba(156,163,175,.20),
+    inset 0 0 30px rgba(255,255,255,.03);
+
+  animation: cardGlow 4s ease-in-out infinite;
+}
+
+/* GREEN GOLD GRAY BORDER */
+.card:before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  padding: 2px;
+  border-radius: 24px;
+
+  background: var(--rgb);
+  background-size: 400% 400%;
+
+  -webkit-mask:
+    linear-gradient(#fff 0 0) content-box,
+    linear-gradient(#fff 0 0);
+
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+
+  pointer-events: none;
+  animation: rgbMove 5s linear infinite;
+}
+
+/* SHINE LIGHT */
+.card:after {
+  content: "";
+  position: absolute;
+  width: 120px;
+  height: 160%;
+  top: -30%;
+  left: -180px;
+
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(255,255,255,.05),
+    rgba(255,255,255,.28),
+    rgba(34,197,94,.12),
+    transparent
+  );
+
+  transform: rotate(18deg);
+  pointer-events: none;
+
+  animation: cardShine 5s ease-in-out infinite;
+}
+
+@keyframes rgbMove {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@keyframes cardGlow {
+  0%, 100% {
+    box-shadow:
+      0 15px 45px rgba(0,0,0,.75),
+      0 0 15px rgba(212,175,55,.30),
+      0 0 30px rgba(34,197,94,.15);
+  }
+
+  50% {
+    box-shadow:
+      0 15px 45px rgba(0,0,0,.75),
+      0 0 25px rgba(34,197,94,.40),
+      0 0 45px rgba(156,163,175,.25);
+  }
+}
+
+@keyframes cardShine {
+  0% {
+    left: -180px;
+  }
+
+  45%, 100% {
+    left: 130%;
+  }
+}
+
+/* =========================
+   HEADER / LOGO
+========================= */
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+  position: relative;
+  z-index: 2;
+}
+
+.logo {
+  filter:
+    drop-shadow(0 0 8px rgba(34,197,94,.45))
+    drop-shadow(0 0 18px rgba(212,175,55,.30));
+
+  animation: logoGlow 3s ease-in-out infinite;
+}
+
+@keyframes logoGlow {
+  0%, 100% {
+    filter:
+      drop-shadow(0 0 7px rgba(212,175,55,.45))
+      drop-shadow(0 0 15px rgba(156,163,175,.25));
+  }
+
+  50% {
+    filter:
+      drop-shadow(0 0 10px rgba(34,197,94,.65))
+      drop-shadow(0 0 22px rgba(21,128,61,.40));
+  }
+}
+
+/* =========================
+   TITLE
+========================= */
+.title-wrap {
+  text-align: center;
+  margin-bottom: 20px;
+  position: relative;
+  z-index: 2;
+}
+
+.badge-top {
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 800;
+  padding: 6px 14px;
+  border-radius: 30px;
+
+  color: #fff;
+
+  background:
+    linear-gradient(#25282b,#25282b) padding-box,
+    var(--rgb) border-box;
+
+  border: 1px solid transparent;
+
+  margin-bottom: 12px;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+
+  box-shadow:
+    0 0 12px rgba(34,197,94,.30),
+    0 0 20px rgba(212,175,55,.18);
+
+  animation: badgeGlow 3s ease-in-out infinite;
+}
+
+@keyframes badgeGlow {
+  0%,100% {
+    box-shadow: 0 0 10px rgba(212,175,55,.35);
+  }
+
+  50% {
+    box-shadow:
+      0 0 15px rgba(34,197,94,.55),
+      0 0 25px rgba(156,163,175,.25);
+  }
+}
+
+.title-wrap h1 {
+  font-size: 21px;
+  font-weight: 800;
+  line-height: 1.35;
+  margin-bottom: 9px;
+
+  background: linear-gradient(
+    90deg,
+    #ffffff,
+    #22c55e,
+    #9ca3af,
+    #d4af37,
+    #f5d76e,
+    #ffffff
+  );
+
+  background-size: 300% auto;
+
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  animation: titleRGB 5s linear infinite;
+
+  filter: drop-shadow(0 0 7px rgba(34,197,94,.18));
+}
+
+@keyframes titleRGB {
+  from {
+    background-position: 0% center;
+  }
+
+  to {
+    background-position: 300% center;
+  }
+}
+
+.title-wrap p {
+  font-size: 12px;
+  color: #d1d5db;
+  font-weight: 300;
+  line-height: 1.6;
+}
+
+/* =========================
+   WELCOME
+========================= */
+.welcome {
+  position: relative;
+  background:
+    linear-gradient(90deg, rgba(212,175,55,.08), rgba(34,197,94,.08)),
+    rgba(0,0,0,.40);
+
+  border-radius: 12px;
+  padding: 12px;
+  margin-bottom: 20px;
+  text-align: center;
+
+  border: 1px solid rgba(255,255,255,.08);
+
+  box-shadow:
+    inset 0 0 15px rgba(34,197,94,.05),
+    0 0 15px rgba(156,163,175,.10);
+
+  overflow: hidden;
+}
+
+.welcome:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 4px;
+  height: 100%;
+
+  background: linear-gradient(
+    #d4af37,
+    #9ca3af,
+    #22c55e,
+    #86efac,
+    #f5d76e
+  );
+
+  animation: welcomeRGB 3s linear infinite;
+}
+
+@keyframes welcomeRGB {
+  0%,100% {
+    filter: hue-rotate(0deg);
+  }
+
+  50% {
+    filter: brightness(1.2);
+  }
+}
+
+.welcome h3 {
+  font-size: 12px;
+  color: #fff;
+  font-family: 'Courier New', Courier, monospace;
+
+  overflow: hidden;
+  border-right: .15em solid #22c55e;
+  white-space: nowrap;
+
+  margin: 0 auto;
+  width: fit-content;
+
+  animation:
+    typing 3.5s steps(40,end),
+    blink-caret .75s step-end infinite;
+}
+
+@keyframes typing {
+  from { width: 0; }
+  to { width: 100%; }
+}
+
+@keyframes blink-caret {
+  from, to {
+    border-color: transparent;
+  }
+
+  50% {
+    border-color: #22c55e;
+  }
+}
+
+/* =========================
+   BUTTON
+========================= */
+.btn {
+  display: block;
+  width: 100%;
+  padding: 14px;
+
+  border-radius: 50px;
+  text-decoration: none;
+  text-align: center;
+
+  font-weight: 800;
+  font-size: 14px;
+
+  margin-bottom: 12px;
+
+  position: relative;
+  overflow: hidden;
+
+  text-transform: uppercase;
+  letter-spacing: .7px;
+
+  z-index: 2;
+}
+
+/* GREEN GOLD GRAY PRIMARY BUTTON */
+.btn-primary {
+  color: #fff;
+
+  background: linear-gradient(
+    90deg,
+    #166534,
+    #d4af37,
+    #9ca3af,
+    #15803d,
+    #22c55e,
+    #86efac,
+    #f5d76e,
+    #166534
+  );
+
+  background-size: 400% 100%;
+
+  border: 1px solid rgba(255,255,255,.25);
+
+  box-shadow:
+    0 0 12px rgba(212,175,55,.45),
+    0 0 25px rgba(34,197,94,.25);
+
+  animation:
+    buttonRGB 4s linear infinite,
+    buttonPulse 2s ease-in-out infinite;
+}
+
+.btn-primary:before {
+  content: "";
+  position: absolute;
+  top: -60%;
+  left: -50%;
+
+  width: 35%;
+  height: 220%;
+
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(255,255,255,.85),
+    transparent
+  );
+
+  transform: rotate(20deg);
+
+  animation: buttonShine 2.8s ease-in-out infinite;
+}
+
+@keyframes buttonRGB {
+  0% {
+    background-position: 0% center;
+  }
+
+  100% {
+    background-position: 400% center;
+  }
+}
+
+@keyframes buttonPulse {
+  0%,100% {
+    box-shadow:
+      0 0 10px rgba(212,175,55,.40),
+      0 0 20px rgba(34,197,94,.20);
+  }
+
+  50% {
+    box-shadow:
+      0 0 18px rgba(34,197,94,.60),
+      0 0 35px rgba(156,163,175,.35);
+  }
+}
+
+@keyframes buttonShine {
+  0% {
+    left: -60%;
+  }
+
+  55%,100% {
+    left: 130%;
+  }
+}
+
+/* SECONDARY */
+.btn-secondary {
+  color: #fff;
+
+  background:
+    linear-gradient(#25282b,#25282b) padding-box,
+    var(--rgb) border-box;
+
+  border: 2px solid transparent;
+
+  box-shadow:
+    0 0 12px rgba(34,197,94,.15),
+    inset 0 0 12px rgba(212,175,55,.05);
+}
+
+/* OUTLINE */
+.btn-outline {
+  background: rgba(255,255,255,.03);
+  border: 1px solid rgba(255,255,255,.18);
+
+  color: #ddd;
+  font-size: 12px;
+  padding: 10px;
+
+  box-shadow: inset 0 0 12px rgba(255,255,255,.025);
+}
+
+/* =========================
+   HERO
+========================= */
+.hero {
+  position: relative;
+  margin: 20px 0;
+
+  border-radius: 17px;
+  overflow: hidden;
+
+  border: 2px solid transparent;
+
+  background:
+    linear-gradient(#25282b,#25282b) padding-box,
+    var(--rgb) border-box;
+
+  box-shadow:
+    0 10px 30px rgba(0,0,0,.70),
+    0 0 15px rgba(34,197,94,.20),
+    0 0 25px rgba(212,175,55,.12);
+}
+
+/* =========================
+   TABLE
+========================= */
+.table-wrapper {
+  position: relative;
+
+  background: rgba(31,34,37,.70);
+
+  border-radius: 16px;
+  overflow: hidden;
+  margin-top: 10px;
+
+  border: 1px solid rgba(255,255,255,.10);
+
+  box-shadow:
+    0 10px 25px rgba(0,0,0,.50),
+    0 0 15px rgba(156,163,175,.12);
+}
+
+table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+}
+
+th {
+  background: linear-gradient(
+    90deg,
+    #166534,
+    #d4af37,
+    #9ca3af,
+    #15803d,
+    #22c55e
+  );
+
+  background-size: 300% 100%;
+
+  color: #fff;
+
+  padding: 13px;
+
+  font-size: 14px;
+  font-weight: 800;
+
+  text-transform: uppercase;
+  letter-spacing: .5px;
+
+  animation: tableRGB 5s linear infinite;
+}
+
+@keyframes tableRGB {
+  from {
+    background-position: 0% center;
+  }
+
+  to {
+    background-position: 300% center;
+  }
+}
+
+td {
+  padding: 12px;
+
+  background: rgba(255,255,255,.025);
+
+  border-bottom: 1px solid rgba(255,255,255,.06);
+
+  vertical-align: middle;
+  color: #ddd;
+}
+
+tr:last-child td {
+  border-bottom: none;
+}
+
+td:first-child {
+  font-weight: 600;
+  font-size: 13px;
+  color: #eee;
+}
+
+/* =========================
+   MINI BUTTON
+========================= */
+.btn-mini {
+  display: inline-block;
+
+  padding: 7px 16px;
+
+  background: linear-gradient(
+    90deg,
+    #d4af37,
+    #9ca3af,
+    #15803d,
+    #22c55e
+  );
+
+  background-size: 250% 100%;
+
+  color: #fff;
+
+  font-weight: 800;
+  font-size: 11px;
+
+  border-radius: 20px;
+  text-decoration: none;
+
+  box-shadow:
+    0 0 10px rgba(34,197,94,.35),
+    0 0 18px rgba(212,175,55,.20);
+
+  animation: miniRGB 3s linear infinite;
+}
+
+@keyframes miniRGB {
+  from {
+    background-position: 0% center;
+  }
+
+  to {
+    background-position: 250% center;
+  }
+}
+
+/* =========================
+   COPYRIGHT
+========================= */
+.copyright {
+  margin-top: 25px;
+  padding-top: 15px;
+
+  text-align: center;
+
+  font-size: 11px;
+  color: #888;
+
+  border-top: 1px solid rgba(255,255,255,.07);
+}
+
+.copyright a {
+  color: #22c55e;
+  text-decoration: none;
+
+  text-shadow:
+    0 0 6px rgba(34,197,94,.55),
+    0 0 12px rgba(156,163,175,.30);
+}
+
+/* =========================
+   MOBILE
+========================= */
+@media (max-width: 480px) {
+
+  body {
+    padding: 12px 8px;
+  }
+
+  .card {
+    padding: 22px 15px;
+    border-radius: 20px;
+  }
+
+  .title-wrap h1 {
+    font-size: 19px;
+  }
+
+  .btn {
+    padding: 13px;
+  }
+
+  th,
+  td {
+    padding: 10px 8px;
+  }
+}
+</style>
+</head>
+
+<body>
+  <div class="container">
+    <div class="card">
+      <header>
+          <amp-img
+            class="logo"
+            src="https://files.sitestatic.net/ImageFile/2026010806120000000097795bdf32__TOTORAWIT__1800x393.png"
+            alt="Logo TOTORAWIT"
+            width="200"
+            height="60"
+            layout="intrinsic">
+          </amp-img>
+      </header>
+
+      <div class="title-wrap">
+        <span class="badge-top">Game Onlune & Vourcher Termurah</span>
+        <h1>TOTORAWIT: Link Slot 777 Online Akses Perkalian Maksimal Gampang Maxwin</h1>
+        
+      </div>
+
+      <div class="welcome">
+        <h3>TOTORAWIT | Top Up Vourcher | Slot Online </h3>
+      </div>
+
+      <a href="https://jplogin.totorawit.link/" target="_blank" rel="noreferrer noopener" class="btn btn-primary">
+        DAFTAR TOTORAWIT
+      </a>
+      
+      <a href="https://jplogin.totorawit.link/" target="_blank" rel="noreferrer noopener" class="btn btn-secondary">
+        LOGIN TOTORAWIT
+      </a>
+
+      <div class="hero">
+        <amp-img
+          src="https://s15.gifyu.com/images/bWM3e.md.png"
+          width="600"
+          height="600"
+          layout="responsive"
+          alt="TOTORAWIT: Link Slot 777 Online Akses Perkalian Maksimal Gampang Maxwin">
+        </amp-img>
+      </div>
+
+      <div class="table-wrapper">
+        <table>
+          <thead>
+            <tr>
+              <th style="text-align:left; padding-left:20px;">Akses TOTORAWIT</th>
+              <th style="text-align:right; padding-right:20px;">🚗</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>RTP GACOR</td>
+              <td style="text-align:right;">
+                <a href="https://jplogin.totorawit.link/" target="_blank" rel="noreferrer noopener" class="btn-mini">KLIK SINI</a>
+              </td>
+            </tr>
+            <tr>
+              <td>TARUHAN ANGKA</td>
+              <td style="text-align:right;">
+                <a href="https://jplogin.totorawit.link/" target="_blank" rel="noreferrer noopener" class="btn-mini">KLIK SINI</a>
+              </td>
+            </tr>
+            <tr>
+              <td>LAYANAN CS 24 JAM</td>
+              <td style="text-align:right;">
+                <a href="https://jplogin.totorawit.link/" target="_blank" rel="noreferrer noopener" class="btn-mini">KLIK SINI</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <a href="https://jplogin.totorawit.link/" target="_blank" rel="noreferrer noopener" class="btn btn-outline" style="margin-top:15px;">
+        🌐 DOWNLOAD APK RESMI TOTORAWIT
+      </a>
+
+      <p class="copyright">
+        Copyright © 2026  <a href="https://e-sertifikat.com/">TOTORAWIT</a>
+      </p>
+    </div>
+  </div>
+</body>
+</html>
