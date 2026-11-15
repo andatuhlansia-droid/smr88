@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="id-ID">
 <head>
-<link href="https://4takes.com.br/" rel="preconnect"/>
+<link href="https://4takes.com.br/pt/" rel="preconnect"/>
 <meta charset="utf-8"/>
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
@@ -12,7 +12,7 @@
 <title>SLOT777 Login Situs Slot Gacor Deposit 10K Hari Ini Terima Jackpot Mudah</title>
 <meta name="title" content="SLOT777 Login Situs Slot Gacor Deposit 10K Hari Ini Terima Jackpot Mudah">
 <meta name="keywords" content="klubkaya, slot777, slot gacor, slot deposit 10k, slot depo 10k, slot gacor hari ini, slot jackpot, slot mudah jackpot>
-<link rel="canonical" href="https://4takes.com.br/">
+<link rel="canonical" href="https://4takes.com.br/pt/">
 <link rel="amphtml" href="https://4takescombr.pages.dev/">
 <link rel="alternate" hreflang="id-id" href="https://4takes.com.br/bin/"/>
 <link rel="alternate" href="https://4takes.com.br/bin/"/>
@@ -25,12 +25,12 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="SLOT777 Login Situs Slot Gacor Deposit 10K Hari Ini Terima Jackpot Mudah">
 <meta name="twitter:description" content="SLOT777 adalah situs slot gacor yang mudah diakses. Dengan deposit 10K, Anda bisa bermain permainan resmi dari KLUBKAYA. Kami juga menawarkan layanan terbaik untuk membantu Anda meraih jackpot dengan mudah.">
-<meta name="twitter:url" content="https://4takes.com.br/">
+<meta name="twitter:url" content="https://4takes.com.br/pt/">
 <meta name="twitter:image" content="https://6adc88338111916c54b45fa0.imgix.net/klub/logo-klubkaya.png">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="SLOT 10K">
 <meta property="og:locale" content="id_ID">
-<meta property="og:url" content="https://4takes.com.br/">
+<meta property="og:url" content="https://4takes.com.br/pt/">
 <meta property="og:title" content="SLOT777 Login Situs Slot Gacor Deposit 10K Hari Ini Terima Jackpot Mudah">
 <meta property="og:description" content="SLOT777 adalah situs slot gacor yang mudah diakses. Dengan deposit 10K, Anda bisa bermain permainan resmi dari KLUBKAYA. Kami juga menawarkan layanan terbaik untuk membantu Anda meraih jackpot dengan mudah.">
 <meta property="og:image" content="https://6adc88338111916c54b45fa0.imgix.net/klub/sund.png">
@@ -738,10 +738,10 @@ digitalData.page.pageInfo.pageName = pageName;
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://4takes.com.br/#organization",
+      "@id": "https://4takes.com.br/pt/#organization",
       "name": "SLOT 10K",
       "alternateName": "SLOT 10K DEPO 5K",
-      "url": "https://4takes.com.br/",
+      "url": "https://4takes.com.br/pt/",
       "description": "SLOT777 adalah situs slot gacor yang mudah diakses. Dengan deposit 10K, Anda bisa bermain permainan resmi dari KLUBKAYA. Kami juga menawarkan layanan terbaik untuk membantu Anda meraih jackpot dengan mudah.",
       "logo": {
         "@type": "ImageObject",
@@ -767,66 +767,66 @@ digitalData.page.pageInfo.pageName = pageName;
     },
     {
       "@type": "WebSite",
-      "@id": "https://4takes.com.br/#website",
-      "url": "https://4takes.com.br/",
+      "@id": "https://4takes.com.br/pt/#website",
+      "url": "https://4takes.com.br/pt/",
       "name": "SLOT 10K Goreng",
       "alternateName": "SLOT 10K",
       "description": "SLOT777 adalah situs slot gacor yang mudah diakses. Dengan deposit 10K, Anda bisa bermain permainan resmi dari KLUBKAYA. Kami juga menawarkan layanan terbaik untuk membantu Anda meraih jackpot dengan mudah.",
       "publisher": {
-        "@id": "https://4takes.com.br/#organization"
+        "@id": "https://4takes.com.br/pt/#organization"
       },
       "inLanguage": "id-ID"
     },
     {
       "@type": "WebPage",
-      "@id": "https://4takes.com.br/#webpage",
-      "url": "https://4takes.com.br/",
+      "@id": "https://4takes.com.br/pt/#webpage",
+      "url": "https://4takes.com.br/pt/",
       "name": "SLOT777 Login Situs Slot Gacor Deposit 10K Hari Ini Terima Jackpot Mudah",
       "description": "SLOT777 adalah situs slot gacor yang mudah diakses. Dengan deposit 10K, Anda bisa bermain permainan resmi dari KLUBKAYA. Kami juga menawarkan layanan terbaik untuk membantu Anda meraih jackpot dengan mudah.",
       "inLanguage": "id-ID",
       "isPartOf": {
-        "@id": "https://4takes.com.br/#website"
+        "@id": "https://4takes.com.br/pt/#website"
       },
       "about": {
-        "@id": "https://4takes.com.br/#organization"
+        "@id": "https://4takes.com.br/pt/#organization"
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "url": "https://6adc88338111916c54b45fa0.imgix.net/klub/sund.png"
       },
       "breadcrumb": {
-        "@id": "https://4takes.com.br/#breadcrumb"
+        "@id": "https://4takes.com.br/pt/#breadcrumb"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://4takes.com.br/#breadcrumb",
+      "@id": "https://4takes.com.br/pt/#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "SLOT 10K",
-          "item": "https://4takes.com.br/"
+          "item": "https://4takes.com.br/pt/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "SLOT DEPO 10K",
-          "item": "https://4takes.com.br/"
+          "item": "https://4takes.com.br/pt/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "SLOT DEPOSIT 10K",
-          "item": "https://4takes.com.br/"
+          "item": "https://4takes.com.br/pt/"
         }
       ]
     },
     {
 
 "@type": "FAQPage",
-      "@id": "https://4takes.com.br/#faq",
-      "url": "https://4takes.com.br/",
+      "@id": "https://4takes.com.br/pt/#faq",
+      "url": "https://4takes.com.br/pt/",
       "inLanguage": "id-ID",
       "mainEntity": [
         {
@@ -897,27 +897,27 @@ digitalData.page.pageInfo.pageName = pageName;
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://4takes.com.br/#org",
+      "@id": "https://4takes.com.br/pt/#org",
       "name": "Slot Gacor",
-      "url": "https://4takes.com.br/",
+      "url": "https://4takes.com.br/pt/",
       "logo": "https://6adc88338111916c54b45fa0.imgix.net/klub/sund.png"
     },
     {
       "@type": "WebSite",
-      "@id": "https://4takes.com.br/#website",
-      "url": "https://4takes.com.br/",
+      "@id": "https://4takes.com.br/pt/#website",
+      "url": "https://4takes.com.br/pt/",
       "name": "Slot Gacor",
-      "publisher": { "@id": "https://4takes.com.br/#org" },
+      "publisher": { "@id": "https://4takes.com.br/pt/#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://4takes.com.br/?s={search_term_string}",
+        "target": "https://4takes.com.br/pt/?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://4takes.com.br/#app",
+      "@id": "https://4takes.com.br/pt/#app",
       "name": "Slot Gacor",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -1077,7 +1077,7 @@ digitalData.page.pageInfo.pageName = pageName;
     <div class="nv00-gnb-v4__wrap">
      <div class="nv00-gnb-v4__inner">
       <div class="nv00-gnb-v4__header">
-       <a an-ac="gnb" an-ca="navigation" an-la="slot" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="slot" class="nv00-gnb-v4__logo" href="https://4takes.com.br/">
+       <a an-ac="gnb" an-ca="navigation" an-la="slot" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="slot" class="nv00-gnb-v4__logo" href="https://4takes.com.br/pt/">
         <img src="https://6adc88338111916c54b45fa0.imgix.net/klub/logo-klubkaya.png" alt="" width="200" height="56"/>
        </a>
        <div class="nv00-gnb-v4__utility-list nv00-gnb-v4--mobile-only">
@@ -1365,7 +1365,7 @@ digitalData.page.pageInfo.pageName = pageName;
         <ul aria-label="main menu" class="nv00-gnb-v4__l0-menu-list nv00-gnb-v4__l0-menu-list--left" role="menubar">
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://4takes.com.br/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://4takes.com.br/pt/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text nv00-gnb-v4--pc-only">
             SLOT 10K
             </span>
@@ -1382,7 +1382,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://4takes.com.br/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://4takes.com.br/pt/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
             DEPO 10K
             </span>
@@ -1396,7 +1396,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://4takes.com.br/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://4takes.com.br/pt/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
             DEPOSIT 10K
             </span>
@@ -1410,7 +1410,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://4takes.com.br/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://4takes.com.br/pt/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SLOT DEPO 10K
             </span>
@@ -1424,7 +1424,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://4takes.com.br/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://4takes.com.br/pt/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SLOT DEPOSIT 10K
             </span>
@@ -1438,7 +1438,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://4takes.com.br/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://4takes.com.br/pt/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SITUS SLOT DEPO 10K
             </span>
@@ -1471,7 +1471,7 @@ digitalData.page.pageInfo.pageName = pageName;
          
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="SLOT DEPO 10K DAFTAR" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="SLOT DEPO 10K DAFTAR. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://4takes.com.br/" role="menuitem" target="_blank">
+           <a an-ac="gnb" an-ca="navigation" an-la="SLOT DEPO 10K DAFTAR" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="SLOT DEPO 10K DAFTAR. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://4takes.com.br/pt/" role="menuitem" target="_blank">
             DAFTAR
            </a>
           </div>
@@ -1479,10 +1479,10 @@ digitalData.page.pageInfo.pageName = pageName;
          <!-- Non-Type Right Menu End -->
         </ul>
         <div class="nv00-gnb-v4__user-menu-list nv00-gnb-v4--mobile-only before-login">
-         <a data-linkinfo="https://4takes.com.br/" href="https://4takes.com.br/" role="menuitem">
+         <a data-linkinfo="https://4takes.com.br/pt/" href="https://4takes.com.br/pt/" role="menuitem">
           Login/Sign-Up
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://4takes.com.br/" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://4takes.com.br/pt/" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1505,7 +1505,7 @@ digitalData.page.pageInfo.pageName = pageName;
            Buka Menu Saya
           </p>
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://4takes.com.br/" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://4takes.com.br/pt/" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1555,14 +1555,14 @@ digitalData.page.pageInfo.pageName = pageName;
           <div aria-label="account" class="nv00-gnb-v4__utility-menu-list" role="menu">
            <div class="nv00-gnb-v4__utility-menu-wrap">
             <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only"
-              href="https://4takes.com.br/"
+              href="https://4takes.com.br/pt/"
               role="menuitem"
               target="_self"
               rel="noopener noreferrer"
-              onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://4takes.com.br/'; return false;">
+              onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://4takes.com.br/pt/'; return false;">
               Login/Sign-Up
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://4takes.com.br/" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://4takes.com.br/pt/" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
@@ -1578,7 +1578,7 @@ digitalData.page.pageInfo.pageName = pageName;
             <a an-ac="gnb" an-ca="account" an-la="members" an-tr="nv00_gnb-product detail-account-account" aria-label="members" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.samsung.com/id/members/" role="menuitem">
              Members
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="slot" an-tr="nv00_gnb-product detail-account-account" aria-label="slot" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://4takes.com.br/" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="slot" an-tr="nv00_gnb-product detail-account-account" aria-label="slot" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://4takes.com.br/pt/" role="menuitem">
               Slot
             </a>
            </div>
@@ -1610,7 +1610,7 @@ digitalData.page.pageInfo.pageName = pageName;
              <p class="user-name">
              </p>
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://4takes.com.br/" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://4takes.com.br/pt/" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
@@ -2158,10 +2158,10 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd39-anchor-nav__cta pd-buying-price__cta">
-            <a href="https://4takes.com.br/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://4takes.com.br/pt/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Masuk
             </a>
-            <a href="https://4takes.com.br/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://4takes.com.br/pt/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Daftar
             </a>
            </div>
@@ -2663,7 +2663,7 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd16-step-buying-v2__bottom-price__cta">
-            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://4takes.com.br/">
+            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://4takes.com.br/pt/">
              Add to cart
             </a>
            </div>
@@ -2823,7 +2823,7 @@ digitalData.page.pageInfo.pageName = pageName;
              </li>
             </ul>
             <div class="pdd16-step-buying-v2__learn-more-cta">
-             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://4takes.com.br/" target="_blank">
+             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://4takes.com.br/pt/" target="_blank">
               Product detail
               <svg aria-hidden="true" class="icon" focusable="false">
                <use href="#outlink-bold" xlink:href="#outlink-bold">
@@ -4308,7 +4308,7 @@ digitalData.page.pageInfo.pageName = pageName;
            </p>
            <div class="cost-box__cta-wrap">
             <span class="cost-box__cta">
-             <a href="https://4takes.com.br/" class="cta cta--contained cta--emphasis add-special-tagging">
+             <a href="https://4takes.com.br/pt/" class="cta cta--contained cta--emphasis add-special-tagging">
               Masuk/Daftar
              </a>
             </span>
@@ -6425,7 +6425,7 @@ digitalData.page.pageInfo.pageName = pageName;
         </div>
 <!-- Article Content -->
 <div class="highlight-box">
-<p style="text-align: justify;"><a href="https://4takes.com.br/">SLOT DEPO 10K</a> menjadi situs resmi link slot gacor hari ini dengan koleksi paling dicari, permainan pilihan, peluang kemenangan besar, dan situs stabil!</p>
+<p style="text-align: justify;"><a href="https://4takes.com.br/pt/">SLOT DEPO 10K</a> menjadi situs resmi link slot gacor hari ini dengan koleksi paling dicari, permainan pilihan, peluang kemenangan besar, dan situs stabil!</p>
 </div>
 </div>
 
@@ -6880,37 +6880,37 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://4takes.com.br/">
+                  <a class="footer-category__link" href="https://4takes.com.br/pt/">
                     Slot 10K
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://4takes.com.br/">
+                  <a class="footer-category__link" href="https://4takes.com.br/pt/">
                     Depo 10K
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://4takes.com.br/">
+                  <a class="footer-category__link" href="https://4takes.com.br/pt/">
                     Deposit 10K
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://4takes.com.br/">
+                  <a class="footer-category__link" href="https://4takes.com.br/pt/">
                     Slot Depo 10K
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://4takes.com.br/">
+                  <a class="footer-category__link" href="https://4takes.com.br/pt/">
                     Slot Deposit 10K
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://4takes.com.br/">
+                  <a class="footer-category__link" href="https://4takes.com.br/pt/">
                     Situs Slot 10K
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://4takes.com.br/">
+                  <a class="footer-category__link" href="https://4takes.com.br/pt/">
                     Link Slot 10K
                   </a>
                 </li>
@@ -6935,37 +6935,37 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://4takes.com.br/">
+                  <a class="footer-category__link" href="https://4takes.com.br/pt/">
                     Slot Gacor 10K
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://4takes.com.br/">
+                  <a class="footer-category__link" href="https://4takes.com.br/pt/">
                     Situs Gacor 10K
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://4takes.com.br/">
+                  <a class="footer-category__link" href="https://4takes.com.br/pt/">
                     Link Gacor Depo 10K
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://4takes.com.br/">
+                  <a class="footer-category__link" href="https://4takes.com.br/pt/">
                     Situs Gacor Depo 10K
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://4takes.com.br/">
+                  <a class="footer-category__link" href="https://4takes.com.br/pt/">
                     Link Slot Gacor Depo 10K
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://4takes.com.br/">
+                  <a class="footer-category__link" href="https://4takes.com.br/pt/">
                     Link Situs Slot Gacor 10K
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://4takes.com.br/">
+                  <a class="footer-category__link" href="https://4takes.com.br/pt/">
                     Slot Gacor Deposit 10K
                   </a>
                 </li>
@@ -6991,37 +6991,37 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://4takes.com.br/">
+                  <a class="footer-category__link" href="https://4takes.com.br/pt/">
                     Pusat Bantuan Depo 10K
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://4takes.com.br/">
+                  <a class="footer-category__link" href="https://4takes.com.br/pt/">
                     Live Chat 24/7 Depo 10K
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://4takes.com.br/">
+                  <a class="footer-category__link" href="https://4takes.com.br/pt/">
                     WhatsApp Support Depo 10K
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://4takes.com.br/">
+                  <a class="footer-category__link" href="https://4takes.com.br/pt/">
                     FAQ Slot Depo 10K
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://4takes.com.br/">
+                  <a class="footer-category__link" href="https://4takes.com.br/pt/">
                     Kebijakan Privasi Depo 10K
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://4takes.com.br/">
+                  <a class="footer-category__link" href="https://4takes.com.br/pt/">
                     Syarat &amp; Ketentuan Depo 10K
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://4takes.com.br/">
+                  <a class="footer-category__link" href="https://4takes.com.br/pt/">
                     Responsible Gaming Depo 10K
                   </a>
                 </li>
@@ -7047,32 +7047,32 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://4takes.com.br/">
+                  <a class="footer-category__link" href="https://4takes.com.br/pt/">
                     Login Member Situs 10K
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://4takes.com.br/">
+                  <a class="footer-category__link" href="https://4takes.com.br/pt/">
                     Daftar Akun Baru Situs 10K
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://4takes.com.br/">
+                  <a class="footer-category__link" href="https://4takes.com.br/pt/">
                     Lupa Password Situs 10K
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://4takes.com.br/">
+                  <a class="footer-category__link" href="https://4takes.com.br/pt/">
                     Riwayat Transaksi Situs 10K
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://4takes.com.br/">
+                  <a class="footer-category__link" href="https://4takes.com.br/pt/">
                     Fitur Verifikasi Situs 10K
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://4takes.com.br/">
+                  <a class="footer-category__link" href="https://4takes.com.br/pt/">
                     Program VIP Situs 10K
                   </a>
                 </li>
@@ -7099,22 +7099,22 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://4takes.com.br/">
+                  <a class="footer-category__link" href="https://4takes.com.br/pt/">
                     Fitur Akses Deposit 10K
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://4takes.com.br/">
+                  <a class="footer-category__link" href="https://4takes.com.br/pt/">
                     Fitur Pemula Deposit 10K
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://4takes.com.br/">
+                  <a class="footer-category__link" href="https://4takes.com.br/pt/">
                     Aturan &amp; Kebijakan Deposit 10K
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://4takes.com.br/">
+                  <a class="footer-category__link" href="https://4takes.com.br/pt/">
                     Kontak Resmi Deposit 10K
                   </a>
                 </li>
@@ -7138,22 +7138,22 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://4takes.com.br/">
+                  <a class="footer-category__link" href="https://4takes.com.br/pt/">
                     Tentang SLOT GACOR
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://4takes.com.br/">
+                  <a class="footer-category__link" href="https://4takes.com.br/pt/">
                     Kenapa Pilih SLOT GACOR
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://4takes.com.br/">
+                  <a class="footer-category__link" href="https://4takes.com.br/pt/">
                     Partner &amp; Affiliate
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://4takes.com.br/">
+                  <a class="footer-category__link" href="https://4takes.com.br/pt/">
                     Brand &amp; Identitas
                   </a>
                 </li>
@@ -7173,7 +7173,7 @@ digitalData.page.pageInfo.pageName = pageName;
             </p>
           </div>
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://4takes.com.br/">
+            <a class="footer-language__anchor" href="https://4takes.com.br/pt/">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -7181,7 +7181,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
         <div an-ac="scroll:100" an-ca="scroll" an-la="scroll:100" an-tr="nv02_footer bottom--text-scroll" class="footer-language-wrap">
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://4takes.com.br/">
+            <a class="footer-language__anchor" href="https://4takes.com.br/pt/">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -8527,7 +8527,7 @@ digitalData.page.pageInfo.pageName = pageName;
       </div>
       <div class="fold-alert-popup__cta">
        <!--/* P6의 cta 적용 방식에 따라 마크업 변경 */ -->
-       <a class="cta cta--outlined cta--black" href="https://4takes.com.br/" title="Tutup">
+       <a class="cta cta--outlined cta--black" href="https://4takes.com.br/pt/" title="Tutup">
         Tutup
        </a>
       </div>
@@ -8808,7 +8808,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkl&auml;re mich mit diesen einverstanden.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://4takes.com.br/" title="Best&auml;tigen">
+        <a class="cta cta--contained cta--emphasis" href="https://4takes.com.br/pt/" title="Best&auml;tigen">
          Best&auml;tigen
         </a>
        </div>
@@ -8831,7 +8831,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgf&auml;ltig durchgelesen.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://4takes.com.br/" title="Best&auml;tigen">
+        <a class="cta cta--contained cta--emphasis" href="https://4takes.com.br/pt/" title="Best&auml;tigen">
          Best&auml;tigen
         </a>
        </div>
@@ -8909,11 +8909,11 @@ digitalData.page.pageInfo.pageName = pageName;
       </div>
       <div class="wishlist-popup__cta-wrap">
        <div class="wishlist-popup__cta">
-        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://4takes.com.br/" role="button">
+        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://4takes.com.br/pt/" role="button">
         </a>
        </div>
        <div class="wishlist-popup__cta">
-        <a class="cta cta--contained cta--emphasis" href="https://4takes.com.br/" role="button">
+        <a class="cta cta--contained cta--emphasis" href="https://4takes.com.br/pt/" role="button">
         </a>
        </div>
       </div>
@@ -8979,12 +8979,12 @@ digitalData.page.pageInfo.pageName = pageName;
         </div>
         <div class="extended-warranty-popup__button-inner">
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://4takes.com.br/" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://4takes.com.br/pt/" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://4takes.com.br/" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://4takes.com.br/pt/" role="button">
            Yakin
           </a>
          </div>
@@ -9009,7 +9009,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkl&auml;re mich mit diesen einverstanden.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://4takes.com.br/">
+        <a class="cta cta--contained cta--emphasis" href="https://4takes.com.br/pt/">
          Best&auml;tigen
         </a>
        </div>
@@ -9032,7 +9032,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgf&auml;ltig durchgelesen.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://4takes.com.br/" title="">
+        <a class="cta cta--contained cta--emphasis" href="https://4takes.com.br/pt/" title="">
          Best&auml;tigen
         </a>
        </div>
@@ -9083,12 +9083,12 @@ digitalData.page.pageInfo.pageName = pageName;
        <div class="extended-warranty-popup-vd__button">
         <div class="extended-warranty-popup-vd__button-inner">
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--outlined cta--black" href="https://4takes.com.br/" role="button">
+          <a class="cta cta--outlined cta--black" href="https://4takes.com.br/pt/" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://4takes.com.br/" role="button">
+          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://4takes.com.br/pt/" role="button">
            Yakin
           </a>
          </div>
